@@ -3,7 +3,7 @@
 ![Screenshot](screenshot6.png)
 ![Screenshot](screenshot7.png)
 
-##  Grid layout with images that span multiple elements from scratch using CSS, specifically the "background-attachment: fixed" property/value.
+Grid layout with images that span multiple elements from scratch using CSS, specifically the "background-attachment: fixed" property/value.
 
 ## Technologies Used
 
